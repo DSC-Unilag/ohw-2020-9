@@ -1,5 +1,9 @@
 # meme_generator
 
+Meme Generator
+A meme generator that works with meme APIs that automatically shows an image with a title.
+It enables users to edit text on the meme and download it. The app shows download histories, can share the memes and also delete download.
+One can bookmark a meme image also
 A new Flutter project.
 
 ## Getting Started
